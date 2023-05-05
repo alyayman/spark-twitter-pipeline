@@ -1,0 +1,2 @@
+*/5 * * * * /home/itversity/hive.sh 
+*/7 * * * * /home/itversity/fact.sh
